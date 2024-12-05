@@ -2,6 +2,10 @@
 
 An advanced, customizable notification system for FiveM servers by Code Universe.
 
+## Documentation
+
+For detailed documentation, please visit the [Clear Notify Documentation](https://code-universe.gitbook.io/codeuniverse/free-releases/clear-notify-system).
+
 ## Features
 
 - Multiple notification types: Success, Error, Info, Warning
